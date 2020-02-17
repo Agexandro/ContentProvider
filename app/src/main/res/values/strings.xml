@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiClienteCPContactosB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Insert fragment</string>
+    <string name="hello_blank_fragment2">Hello Update fragment</string>
+    <string name="hello_blank_fragment3">Hello Delete fragment</string>
+
+    <!-- TODO: Insert-->
+    <string name="nombre">Ingresa el nombre del contacto</string>
+    <string name="Correo">Ingresa el el correo del contacto</string>
+    <string name="telefono">Ingresa el teléfono del contacto</string>
+    <string name="btnaceptar">Añadir contacto</string>
+
+</resources>
